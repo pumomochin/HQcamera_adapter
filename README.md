@@ -13,7 +13,7 @@ When connecting the Raspberry Pi HQ Camera to a Raspberry Pi 4 via a ribbon cabl
 - Designed in FreeCAD
 - Accommodates the Raspberry Pi HQ Camera (IMX477)
 - Fits the Arducam CSI-to-HDMI adapter board
-- Suitable for mounting on the Vixen R200SS telescope
+- Suitable for mounting on the Vixen R200SS telescope or the other microcope
 - STL file for 3D printing included (`FixerPart1.stl`)
 
 ## Files
@@ -29,6 +29,10 @@ Below is a photo of the assembled case attached to the telescope. The green prin
 
 ![HQ Camera Adapter Case attached to telescope](pics/Attached_to_R200SS.jpg)
 
+
+This photo shows an example of the adapter case attached to a microscope. 
+![IMX477 (for Nvidia Jetson Nano Orin) Camera Adapter Case attached to microscope](pics/microscope_addin.png)
+
 ## FreeCAD Model Samples
 
 Below are sample images exported from FreeCAD, showing the design and assembly of the adapter case:
@@ -41,7 +45,7 @@ Below are sample images exported from FreeCAD, showing the design and assembly o
 
 1. Print `FixerPart1.stl` using a 3D printer.
 2. Assemble the Raspberry Pi HQ Camera and the Arducam CSI-HDMI adapter inside the printed case.
-3. Mount the case onto the telescope (e.g., Vixen R200SS).
+3. Mount the case onto the telescope (e.g., Vixen R200SS) or the other microsope.
 4. Connect the HDMI cable between the adapter and the Raspberry Pi 4.
 
 ## License
