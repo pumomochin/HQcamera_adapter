@@ -44,9 +44,13 @@ Below are sample images exported from FreeCAD, showing the design and assembly o
 ## How to Use
 
 1. Print `FixerPart1.stl` using a 3D printer.
-2. Assemble the Raspberry Pi HQ Camera and ![the Arducam CSI-HDMI adapter](pics/p1.png) inside the printed case.
+2. Assemble the Raspberry Pi HQ Camera and the Arducam CSI-HDMI adapter inside the printed case.
 3. Mount the case onto the telescope (e.g., Vixen R200SS) or the other microsope.
 4. Connect the HDMI cable between the adapter and the Raspberry Pi 4.
+
+## Built in exmple
+
+![Arducam CSI-HDMI adapter and HQ Camera assembled with the case](pics/p1.png)
 
 ## License
 
